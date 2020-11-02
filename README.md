@@ -4,5 +4,5 @@ My name is Rafael, I'm an active software engineering student at Universidad de 
 
 
 - 🌱 I’m currently learning Flutter to develop Android and iOS apps.
-- 👯 Work as a backend intern developer using C# and .Net Core technologies.
+-  Work as a backend intern developer using C# and .Net Core technologies.
 - 💬 Ask me about how to make pasta carbonara or margaretha.
