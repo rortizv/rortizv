@@ -3,6 +3,6 @@
 My name is Rafael, I'm an active software engineering student at Universidad de Cartagena.  Junior full stack web developer.
 
 
-- 🌱 I’m currently learning Flutter to develop Android and iOS apps.
--  Work as a backend intern developer using C# and .Net Core technologies.
+- 🌱 I’m currently learning Angular for the front end.
+-  Work as a fullstack intern developer using .Net, .Net Core technologies, Entity Framework; web API's, WinForms.
 - 💬 Ask me about how to make pasta carbonara or margaretha.
