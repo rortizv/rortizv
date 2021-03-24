@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rafael, I'm an active software engineering student at Universidad de Cartagena.  Junior full stack web developer.
+My name is Rafael, I'm an active software engineering student at Universidad de Cartagena.  Junior full stack developer.
 
 
 -  Work as a fullstack intern developer using Angular, TypeScript, .Net, .Net Core & SQL Server technologies.  Worked with Entity Framework, some web API's developed, WinForms to call those services, also data handling using inSight Database.
