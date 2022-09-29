@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-My name is Rafael, I'm a software engineer - Frontend dev & Team leader with experience in software design and development, planning, organizing, monitoring and tracking projects on various platforms with functional teams to deliver defined requirements that align with the client's strategic objectives. Post implementation support with various languages, frameworks and embedded systems.
+My name is Rafael, I'm a software engineer - Passionate frontend & mobile developer with 2 years experience working on creating friendly responsive user interfaces, components and applications with web technologies; interacting with APIs, web services, developing reusable components based on UI standards, designs and guidelines.
 
-- 💬 Ask me about how to make pasta carbonara or margaretha.
+- 💬 Ask me about how to cook pasta carbonara or margaretha.
