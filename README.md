@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-My name is Rafael, I'm a Software engineer passionate about coding; a skilled full-stack developer with almost 3 years experience in building and maintaining web and mobile applications. Competent in Ionic / Angular & TypeScript for frontend development, capable with Python / Django for backend development. Well-versed in creating and maintaining RESTful APIs and using SCSS and Material UI for styling and customization of web applications. Experienced in version control using Git for collaborative development, performing code reviews, and providing feedback to team members. Knowledgeable in technologies to improve development processes and product quality
+My name is Rafael, I’m a software engineer with 3 year experience with frontend development using Angular, Typescript, and Ionic, with the ability to develop and maintain REST apis using .Net (C#), Django (Python).  Committed to delivering high-quality solutions, with a meticulous attention to detail and a passion for continuous learning and growth.
 - 💬 Ask me about how to cook pasta carbonara or margaretha.
