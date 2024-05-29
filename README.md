@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I’m a software engineer with more than 3 years of experience in software design, development and testing using Angular, Typescript, and Ionic for web and mobile applications; proficient in developing and maintaining REST APIs using .NET (C#) and Django (Python). Microsoft Azure Fundamentals certified, and actively expanding my cloud skill set by learning to implement AI solutions and services. Committed to delivering high-quality solutions, with a meticulous attention to detail and a passion for continuous learning and growth.
+I’m a software engineer with nearly 4 years of experience in software design, development, maintenance, testing, deployment and cloud monitoring. My expertise spans web and mobile applications development using Angular, TypeScript, and Ionic in client side, as well as backend development and maintenance of RESTful APIs using Python (Django), .C# (.Net) and JavaScript (NodeJs). I am a Microsoft Azure Certified professional with skills to implement Azure AI cloud solutions to enhance application capabilities and user experience.
 
 - 💬 Ask me about how to cook pasta carbonara or margaretha.
