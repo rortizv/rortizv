@@ -1,1 +1,8 @@
+I build and operate the cloud platforms and AI systems that run real business operations. With ~6 years as a software engineer, I take products from architecture to production and keep them running at scale — full-stack apps (Angular, Next.js, React, NestJS, Python, FastAPI) on Azure, with applied AI solutions (Azure OpenAI, multi-agent systems, Document Intelligence) wired into real workflows rather than trained from scratch. I currently
+lead the architecture, infrastructure and AI of BeatHub OS, a huge platform for the number 1 live-entertainment group in Colombia (concerts, festivals, events), and I'm taking ownership of deployments, reliability and capacity across the group's app portfolio — including high-traffic ticketing on-sales. I care about tangible outcomes: less manual work, faster decisions, and a platform a team can build on safely.
 
+- Cloud-native platform & reliability — I deploy and operate platforms on Azure (App Services, SQL, Data Lake, Communication Services) with CI/CD, security, and scaling sized for high-traffic on-sale events.
+- Applied AI in production — I wire Azure OpenAI, Document Intelligence, and Custom Vision into real workflows: conversational queries over business data, invoice reading, document classification.
+- Orchestrated AI agents — I design coordinator + specialized agent architectures on Azure AI Foundry, each with its own role and context, to resolve complex queries end-to-end.
+- End-to-end delivery — I take products from architecture to production: backend, frontend, and integrations as a single coherent system.
+- Data for decision-making — I unify sources (SQL, Data Lake/Parquet, APIs) into services that feed reports, forecasts, and AI workflows.
